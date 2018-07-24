@@ -1,0 +1,19 @@
+{
+  "name": "comp397",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soorajks21/trail-comp397.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soorajks21/trail-comp397/issues"
+  },
+  "homepage": "https://github.com/soorajks21/trail-comp397#readme"
+}
